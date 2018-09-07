@@ -154,10 +154,15 @@
     <ClCompile Include="Calculator.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="CArray.cpp" />
+    <ClCompile Include="Continue.cpp" />
     <ClCompile Include="Logical.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Practice1_DsmGame.cpp" />
+    <ClCompile Include="Practice4_RGB.cpp" />
+    <ClCompile Include="Score.cpp" />
+    <ClCompile Include="Shift.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
@@ -166,6 +171,9 @@
     </ClCompile>
     <ClCompile Include="Realtion.cpp" />
     <ClCompile Include="Bitset.cpp" />
+    <ClCompile Include="Practice5_RGB.cpp" />
+    <ClCompile Include="MultiplyArray.cpp" />
+    <ClCompile Include="UpperLower.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
