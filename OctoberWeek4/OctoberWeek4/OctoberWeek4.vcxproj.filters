@@ -26,25 +26,16 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Fibonacci.cpp">
+    <ClCompile Include="Reverse.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DoublePointer.cpp">
+    <ClCompile Include="StringLength.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CardGame.cpp">
+    <ClCompile Include="AbusiveLang.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FunctionStore.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Average.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ReverseString.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ShiftString.cpp">
+    <ClCompile Include="SubtractExtension.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

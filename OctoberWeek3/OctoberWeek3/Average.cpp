@@ -17,7 +17,7 @@ double Distance(const Point& p1, const Point& p2)
 	return distance;
 }
 
-int main()
+int distance()
 {
 	Point a,b;
 	cin >> a.x >> a.y >> b.x >> b.y;
