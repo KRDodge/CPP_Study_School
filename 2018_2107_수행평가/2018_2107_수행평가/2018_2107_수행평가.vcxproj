@@ -20,10 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{90885841-7948-4BDE-B0AC-11CF93ED0BAE}</ProjectGuid>
+    <ProjectGuid>{94E4827D-390C-4B6A-BD2E-396824578453}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>NovemberWeek3</RootNamespace>
+    <RootNamespace>My20107수행평가</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>2018_20107_수행평가</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,17 +148,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="MyString.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DynamicMemory.cpp" />
-    <ClCompile Include="CopyConstructor.cpp" />
-    <ClCompile Include="ConstCast.cpp" />
-    <ClCompile Include="MemeberOver.cpp" />
-    <ClCompile Include="MyString.cpp" />
-    <ClCompile Include="NoPointerCopyConstructor.cpp" />
+    <ClCompile Include="2018_2107_수행평가.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
