@@ -154,6 +154,7 @@
     <ClInclude Include="Point.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="MoveSemantics.cpp" />
     <ClCompile Include="point.cpp" />
     <ClCompile Include="rect.cpp" />
     <ClCompile Include="Rhs.cpp" />
