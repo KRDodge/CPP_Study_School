@@ -26,22 +26,40 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ClassStart.cpp">
+    <ClCompile Include="CopyConstructorParam.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="MemberFunction.cpp">
+    <ClCompile Include="ShallowCopy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DefaultConstructor.cpp">
+    <ClCompile Include="Typecast.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ConstWParam.cpp">
+    <ClCompile Include="AutoTypeCast.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CopyConstructor.cpp">
+    <ClCompile Include="PointSetGet.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CopyConst.cpp">
+    <ClCompile Include="StaticCount.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InlineFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstGetSet.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassThis.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

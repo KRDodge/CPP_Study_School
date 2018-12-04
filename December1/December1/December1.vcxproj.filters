@@ -18,6 +18,12 @@
     <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="rect.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
     <ClInclude Include="targetver.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
@@ -26,22 +32,16 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ClassStart.cpp">
+    <ClCompile Include="Rhs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="MemberFunction.cpp">
+    <ClCompile Include="point.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DefaultConstructor.cpp">
+    <ClCompile Include="rect.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ConstWParam.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CopyConstructor.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CopyConst.cpp">
+    <ClCompile Include="RectPointMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

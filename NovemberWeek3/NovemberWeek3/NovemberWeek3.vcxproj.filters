@@ -21,27 +21,30 @@
     <ClInclude Include="targetver.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="MyString.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ClassStart.cpp">
+    <ClCompile Include="MyString.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="MemberFunction.cpp">
+    <ClCompile Include="ConstCast.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DefaultConstructor.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ConstWParam.cpp">
+    <ClCompile Include="MemeberOver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CopyConstructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CopyConst.cpp">
+    <ClCompile Include="DynamicMemory.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NoPointerCopyConstructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
