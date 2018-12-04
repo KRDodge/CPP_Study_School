@@ -19,14 +19,16 @@ public:
 
 CTestData TestFunc(int nParam)
 {
-	cout << "**TestFunc(): Begin***" << endl;
+	cout << "**TestFunc(): Begin**" << endl;
 	CTestData a;
 	a.SetData(nParam);
 	cout<<"**TesFunc(): End**"<<endl;
+
+	return a;
 }
 
 
-int main()
+int MoveSemantics()
 {
 	CTestData b;
 	cout << "*Before******" << endl;
