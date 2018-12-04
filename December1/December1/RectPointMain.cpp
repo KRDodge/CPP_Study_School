@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int RectPointMain()
 {
 	// Rect °´Ã¼ »ý¼º
 	Rect rc1;
