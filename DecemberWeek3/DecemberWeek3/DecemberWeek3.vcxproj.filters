@@ -29,5 +29,17 @@
     <ClCompile Include="EarlyBinding.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LateBinding.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PureVirtualClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceInherit.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractDataType.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
