@@ -15,42 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Point.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="rect.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
+    <ClInclude Include="pch.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Rhs.cpp">
+    <ClCompile Include="TemplateArray.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="point.cpp">
+    <ClCompile Include="TemplateMember.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="rect.cpp">
+    <ClCompile Include="TemplateParam.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="RectPointMain.cpp">
+    <ClCompile Include="TemplateFunction.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="MoveSemantics.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="OperatorOver.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="AssignOperator.cpp">
+    <ClCompile Include="TemplateInherit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
