@@ -28,4 +28,4 @@ int main()
 	cout << a.GetData() << endl;
 
 	return 0;
-}
+} 

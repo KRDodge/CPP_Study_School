@@ -38,5 +38,17 @@
     <ClCompile Include="TemplateInherit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="AutoPointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SharedPointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SharedPointerArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UniquePointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
