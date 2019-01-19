@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\STL">
+      <UniqueIdentifier>{ed1499c4-c2af-4000-87b0-443c172816fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ThisIsC++">
+      <UniqueIdentifier>{d57162b0-1c88-4271-a1f1-ef41e6900e62}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -23,32 +29,74 @@
     <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TemplateArray.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="VariableObjectFunction.cpp">
+      <Filter>소스 파일\STL</Filter>
     </ClCompile>
-    <ClCompile Include="TemplateMember.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TemplateParam.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TemplateFunction.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TemplateInherit.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="ArrayOverloading.cpp">
+      <Filter>소스 파일\STL</Filter>
     </ClCompile>
     <ClCompile Include="AutoPointer.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="Exception.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="ExceptionAlloc.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="ExceptionClass.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="ExceptionStack.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOverloading.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreamentOverloading.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryOverloading.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="MutiCatch.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="OverloadingPlus.cpp">
+      <Filter>소스 파일\STL</Filter>
     </ClCompile>
     <ClCompile Include="SharedPointer.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ThisIsC++</Filter>
     </ClCompile>
     <ClCompile Include="SharedPointerArray.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="ForEach.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateArray.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateFunction.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateInherit.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateMember.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateParam.cpp">
+      <Filter>소스 파일\ThisIsC++</Filter>
     </ClCompile>
     <ClCompile Include="UniquePointer.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ThisIsC++</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeOverloading.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbackObjectFunction.cpp">
+      <Filter>소스 파일\STL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
