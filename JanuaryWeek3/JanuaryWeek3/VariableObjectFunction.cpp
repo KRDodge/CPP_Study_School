@@ -21,5 +21,6 @@ int main()
 	cout << add(20) << endl;
 	cout << add(30) << endl;
 
+
 	return 0;
 }

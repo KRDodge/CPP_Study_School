@@ -95,7 +95,16 @@
     <ClCompile Include="TypeOverloading.cpp">
       <Filter>소스 파일\STL</Filter>
     </ClCompile>
-    <ClCompile Include="CallbackObjectFunction.cpp">
+    <ClCompile Include="LessFunction.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="LessSTL.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbackSTL.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="PlusMinusSTL.cpp">
       <Filter>소스 파일\STL</Filter>
     </ClCompile>
   </ItemGroup>
